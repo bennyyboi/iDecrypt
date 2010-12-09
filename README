@@ -1,0 +1,5 @@
+This will allow you to decrypt any root filesystem on a IPSW file, it uses VFDecrypt as it's backend to process the request to decrypt it other than that the auto-key fetch was done by me to automate the process and make it a lot easier for people.
+
+Big credits to whoever made VFDecrypt!
+
+Now this is open-sourced feel to modify it as you wish, but leave credits where due - thanks :)
