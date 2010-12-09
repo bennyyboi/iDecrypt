@@ -1,0 +1,236 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1269, 218}}";
+			sepNavSelRange = "{43, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* iDecryptAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1362, 676}}";
+			sepNavSelRange = "{1712, 0}";
+			sepNavVisRange = "{0, 1780}";
+			sepNavWindowFrame = "{{130, 225}, {797, 693}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* iDecryptAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2161, 2496}}";
+			sepNavSelRange = "{5045, 554}";
+			sepNavVisRange = "{4318, 2266}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 82CB62F1127E0823001A0AFB /* iDecrypt */;
+		activeTarget = 8D1107260486CEB800E47090 /* iDecrypt */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iDecrypt */,
+		);
+		codeSenseManager = 82CB62FC127E082A001A0AFB /* Code sense */;
+		executables = (
+			82CB62F1127E0823001A0AFB /* iDecrypt */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1184,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1051,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313593178;
+			PBXWorkspaceStateSaveDate = 313593178;
+		};
+		perUserProjectItems = {
+			8256A6BA12B10D660034E2EE /* PBXTextBookmark */ = 8256A6BA12B10D660034E2EE /* PBXTextBookmark */;
+			827317EC12830E4F00EBC800 = 827317EC12830E4F00EBC800 /* PBXTextBookmark */;
+			827317ED12830E4F00EBC800 = 827317ED12830E4F00EBC800 /* PlistBookmark */;
+			827317EE12830E4F00EBC800 = 827317EE12830E4F00EBC800 /* PBXTextBookmark */;
+			827317EF12830E4F00EBC800 = 827317EF12830E4F00EBC800 /* PBXTextBookmark */;
+			82CB645B127E743C001A0AFB = 82CB645B127E743C001A0AFB /* PlistBookmark */;
+			82CB65AE127EAFCE001A0AFB = 82CB65AE127EAFCE001A0AFB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82CB62FB127E082A001A0AFB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8256A6BA12B10D660034E2EE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iDecryptAppDelegate.m */;
+		name = "iDecryptAppDelegate.m: 127";
+		rLen = 554;
+		rLoc = 5045;
+		rType = 0;
+		vrLen = 2266;
+		vrLoc = 4318;
+	};
+	827317EC12830E4F00EBC800 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* iDecryptAppDelegate.h */;
+		name = "iDecryptAppDelegate.h: 45";
+		rLen = 0;
+		rLoc = 1712;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 0;
+	};
+	827317ED12830E4F00EBC800 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iDecrypt-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	827317EE12830E4F00EBC800 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iDecryptAppDelegate.m */;
+		name = "iDecryptAppDelegate.m: 173";
+		rLen = 0;
+		rLoc = 7154;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 6152;
+	};
+	827317EF12830E4F00EBC800 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iDecryptAppDelegate.m */;
+		name = "iDecryptAppDelegate.m: 127";
+		rLen = 554;
+		rLoc = 5045;
+		rType = 0;
+		vrLen = 2301;
+		vrLoc = 4318;
+	};
+	82CB62F1127E0823001A0AFB /* iDecrypt */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iDecrypt;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82CB62FB127E082A001A0AFB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82CB62FC127E082A001A0AFB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82CB631D127E2BAC001A0AFB /* iDeviceKeys.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1362, 637}}";
+			sepNavSelRange = "{171, 0}";
+			sepNavVisRange = "{0, 2751}";
+			sepNavWindowFrame = "{{153, 204}, {797, 693}}";
+		};
+	};
+	82CB645B127E743C001A0AFB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 82CB631D127E2BAC001A0AFB /* iDeviceKeys.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"018-5536-600.dmg",
+		);
+		name = "/Users/Bennyy/Documents/My Applications/iDecrypt/iDeviceKeys.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	82CB65AE127EAFCE001A0AFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 43;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* iDecrypt */ = {
+		activeExec = 0;
+		executables = (
+			82CB62F1127E0823001A0AFB /* iDecrypt */,
+		);
+	};
+	8D1107310486CEB800E47090 /* iDecrypt-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1362, 627}}";
+			sepNavSelRange = "{1076, 15}";
+			sepNavVisRange = "{0, 1136}";
+		};
+	};
+}

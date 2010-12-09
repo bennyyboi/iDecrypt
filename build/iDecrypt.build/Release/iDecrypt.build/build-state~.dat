@@ -1,0 +1,431 @@
+TiDecrypt
+v7
+r0
+t310283713.162810
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Info.plist" iDecrypt-Info.plist
+cCopyStringsFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib"
+cCopyPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/iDeviceKeys.plist" iDeviceKeys.plist
+cCpResource build/Release/iDecrypt.app/Contents/Resources/vfdecrypt ../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt" normal x86_64
+cLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt" normal i386
+cLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt" normal ppc
+cCreateUniversalBinary "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app.dSYM" "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt"
+cTouch "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt
+c00000000463EF6D60000000000005F08
+t1178531542
+s24328
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/InfoPlist.strings
+c000000004CCDD0A3000000000000002D
+t1288556707
+s45
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib
+c000000004CCE3EB1000000000003B68D
+t1288584881
+s243341
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app
+t1288590913
+s102
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app.dSYM
+t1288590913
+s102
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Info.plist
+t1288590909
+s889
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt
+t1288590913
+s82896
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/PkgInfo
+t1288590909
+s8
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288590909
+s92
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288590909
+s48574
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/iDeviceKeys.plist
+t1288590909
+s2588
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/vfdecrypt
+t1288590909
+s23048
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt
+t1288590912
+s25740
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt.LinkFileList
+c000000004CCE563D00000000000000FF
+t1288590909
+s255
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o
+t1288590912
+s39184
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/main.o
+t1288590912
+s4864
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt
+t1288590913
+s25552
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt.LinkFileList
+c000000004CCE563D00000000000000FD
+t1288590909
+s253
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecryptAppDelegate.o
+t1288590912
+s40432
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/main.o
+t1288590912
+s4892
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt
+t1288590912
+s24016
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt.LinkFileList
+c000000004CCE563D0000000000000103
+t1288590909
+s259
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecryptAppDelegate.o
+t1288590912
+s58000
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/main.o
+t1288590912
+s5064
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.h
+c000000004CCE3E9C00000000000004B9
+t1288584860
+s1209
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+c000000004CCE560E0000000000001678
+t1288590862
+s5752
+i"iDecryptAppDelegate.h"
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch
+c000000004CCDD0A30000000000000093
+t1288556707
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDeviceKeys.plist
+c000000004CCE3CA50000000000000A1C
+t1288584357
+s2588
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+c000000004CCDD0A300000000000000EF
+t1288556707
+s239
+i<Cocoa/Cocoa.h>
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch.gch
+t1288590912
+s36026152
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch.gch
+t1288590912
+s35727312
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch.gch
+t1288590912
+s37541868
+
+NiDecrypt-Info.plist
+c000000004CCDD0A300000000000003EA
+t1288556707
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310283709#310283709#0(0"0(0#1#0"2574409664#0"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310283712.391305
+e310283712.716047
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)
+lSLF07#2@78"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283712#310283712#0(1068"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)4(22@170"'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)310283712#152#255#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#35#0#35#0#33"'*' is deprecated (declared at *)0(22@51"Format not a string literal and no format arguments310283712#548#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#159#0#159#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310283712#685#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#161#0#161#0#51"format not a string literal and no format arguments0(22@160"'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)310283712#822#246#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#165#0#165#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m2574409664#1662"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310283712.390446
+e310283712.626755
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/main.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/main.m310283712#310283712#0(0"0(0#0#55"/Users/Bennyy/Documents/My Applications/iDecrypt/main.m2574409664#1632"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s310283712.632680
+e310283712.874107
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecryptAppDelegate.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)
+lSLF07#2@78"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283712#310283712#0(1068"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)4(22@170"'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)310283712#152#255#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#35#0#35#0#33"'*' is deprecated (declared at *)0(22@51"Format not a string literal and no format arguments310283712#548#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#159#0#159#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310283712#685#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#161#0#161#0#51"format not a string literal and no format arguments0(22@160"'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)310283712#822#246#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#165#0#165#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m2574409664#1669"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/ppc" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecryptAppDelegate.o"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s310283712.626867
+e310283712.783281
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/main.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/main.m310283712#310283712#0(0"0(0#0#55"/Users/Bennyy/Documents/My Applications/iDecrypt/main.m2574409664#1639"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/ppc" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/main.o"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310283712.389339
+e310283712.701834
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecryptAppDelegate.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments
+o/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)
+lSLF07#2@78"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283712#310283712#0(1068"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate dmgSelectorDidEnd:returnCode:contextInfo:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:35: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m: In function '-[iDecryptAppDelegate applicationDidFinishLaunching:]':/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:159: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:161: warning: format not a string literal and no format arguments/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m:165: warning: 'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)4(22@170"'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)310283712#152#255#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#35#0#35#0#33"'*' is deprecated (declared at *)0(22@51"Format not a string literal and no format arguments310283712#548#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#159#0#159#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310283712#685#137#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#161#0#161#0#51"format not a string literal and no format arguments0(22@160"'copyPath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172)310283712#822#246#0(6@70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310283662#165#0#165#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m2574409664#1668"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/x86_64" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecryptAppDelegate.o"0#
+
+CCompileC build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310283712.388143
+e310283712.632584
+r1
+xCompileC
+xbuild/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/main.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/main.m310283712#310283712#0(0"0(0#0#55"/Users/Bennyy/Documents/My Applications/iDecrypt/main.m2574409664#1638"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/x86_64" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib"
+s310283709.052046
+e310283709.444187
+r1
+xCompileXIB
+x/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib
+o2010-11-01 05:55:09.085 ibtool[12034:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310283709#310283709#0(109"2010-11-01 05:55:09.085 ibtool[12034:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#75"/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib2574409664#403"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/iDeviceKeys.plist" iDeviceKeys.plist
+s310283709.052595
+e310283709.070218
+r1
+xCopyPlistFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/iDeviceKeys.plist
+xiDeviceKeys.plist
+lSLF07#2@22"Copy iDeviceKeys.plist310283709#310283709#0(0"0(0#0#66"/Users/Bennyy/Documents/My Applications/iDecrypt/iDeviceKeys.plist2574409664#273"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist iDeviceKeys.plist --outdir "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources"0#
+
+CCopyStringsFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s310283709.051336
+e310283709.082812
+r1
+xCopyStringsFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310283709#310283709#0(0"0(0#0#80"/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/InfoPlist.strings2574409664#392"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Release/iDecrypt.app/Contents/Resources/vfdecrypt ../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt
+s310283709.053156
+e310283709.080992
+r1
+xCpResource
+xbuild/Release/iDecrypt.app/Contents/Resources/vfdecrypt
+x../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt
+lSLF07#2@63"Copy ../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt310283709#310283709#0(0"0(0#0#107"/Users/Bennyy/Documents/My Applications/iDecrypt/../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt2574409664#434"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Bennyy/Documents/My Applications/iDecrypt/../../../files/[Content]/vfdecrypt-binary-mactel/vfdecrypt" "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt" normal "x86_64 i386 ppc"
+s310283713.060084
+e310283713.072692
+r1
+xCreateUniversalBinary
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/Release/iDecrypt.app/Contents/MacOS/iDecrypt normal "x86_64 i386 ppc"310283713#310283713#0(0"0(0#0#64"/Users/Bennyy/Documents/My Applications/iDecrypt/x86_64 i386 ppc2574409664#567"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /usr/bin/lipo -create "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt" "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt" "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt" -output "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt"0#
+
+CGenerateDSYMFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app.dSYM" "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt"
+s310283713.072770
+e310283713.160004
+r1
+xGenerateDSYMFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app.dSYM
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt
+o2010-11-01 05:55:13.111 dsymutil[12096:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@99"GenerateDSYMFile build/Release/iDecrypt.app.dSYM build/Release/iDecrypt.app/Contents/MacOS/iDecrypt310283713#310283713#0(111"2010-11-01 05:55:13.111 dsymutil[12096:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#99"/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt2574409664#278"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /Developer/usr/bin/dsymutil "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/MacOS/iDecrypt" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app.dSYM"0#
+
+CLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt" normal i386
+s310283712.716149
+e310283712.784868
+r1
+xLd
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt
+xnormal
+xi386
+lSLF07#2@126"Link /Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt310283712#310283712#0(0"0(0#0#0"2574409664#633"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" -filelist "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/i386/iDecrypt"0#
+
+CLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt" normal ppc
+s310283712.874201
+e310283713.059991
+r1
+xLd
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt
+xnormal
+xppc
+lSLF07#2@125"Link /Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt310283712#310283713#0(0"0(0#0#0"2574409664#630"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" -filelist "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/ppc/iDecrypt"0#
+
+CLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt" normal x86_64
+s310283712.701953
+e310283712.791199
+r1
+xLd
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt310283712#310283712#0(0"0(0#0#0"2574409664#639"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" -filelist "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/Objects-normal/x86_64/iDecrypt"0#
+
+CProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Info.plist" iDecrypt-Info.plist
+s310283709.047333
+e310283709.051254
+r1
+xProcessInfoPlistFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Info.plist
+xiDecrypt-Info.plist
+lSLF07#2@27"Process iDecrypt-Info.plist310283709#310283709#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt-Info.plist2574409664#353"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    builtin-infoPlistUtility iDecrypt-Info.plist -genpkginfo "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s310283709.446098
+e310283712.388032
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch.gch
+xiDecrypt_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iDecrypt_Prefix.pch310283709#310283712#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch2574409664#1533"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/ppc" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch" -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gscuotbnzgydsaahbrmnkdxtynjo/iDecrypt_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310283709.444315
+e310283712.235335
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch.gch
+xiDecrypt_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iDecrypt_Prefix.pch310283709#310283712#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch2574409664#1529"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/x86_64" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch" -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gwukporfwqqqoldgoqzpuxkvrrot/iDecrypt_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310283709.445238
+e310283712.365177
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch.gch
+xiDecrypt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iDecrypt_Prefix.pch310283709#310283712#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch2574409664#1525"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Release/iDecrypt.build/DerivedSources" -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch" -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-gynfialfgghobjbmvypffgbagspd/iDecrypt_Prefix.pch.gch0#
+
+CTouch "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app"
+s310283713.160075
+e310283713.162766
+r1
+xTouch
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app
+lSLF07#2@81"Touch /Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app310283713#310283713#0(0"0(0#0#0"2574409664#158"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /usr/bin/touch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Release/iDecrypt.app"0#
+

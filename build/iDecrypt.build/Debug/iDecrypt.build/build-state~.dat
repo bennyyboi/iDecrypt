@@ -1,0 +1,197 @@
+TiDecrypt
+v7
+r0
+t310250282.070528
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Info.plist" iDecrypt-Info.plist
+cCopyStringsFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt" normal i386
+cTouch "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/InfoPlist.strings
+c000000004CCDD0A3000000000000002D
+t1288556707
+s45
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib
+c000000004CCDD3A600000000000338A0
+t1288557478
+s211104
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app
+t1288557482
+s102
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Info.plist
+t1288557479
+s889
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt
+t1288557482
+s13832
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/PkgInfo
+t1288557479
+s8
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288557479
+s92
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288557479
+s42094
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecrypt.LinkFileList
+c000000004CCDD3A700000000000000FB
+t1288557479
+s251
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o
+t1288557482
+s15296
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/main.o
+t1288557482
+s4876
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.h
+c000000004CCDD0A3000000000000012F
+t1288556707
+s303
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+c000000004CCDD0A30000000000000165
+t1288556707
+s357
+i"iDecryptAppDelegate.h"
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch
+c000000004CCDD0A30000000000000093
+t1288556707
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+c000000004CCDD0A300000000000000EF
+t1288556707
+s239
+i<Cocoa/Cocoa.h>
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch.gch
+t1288557481
+s38344684
+
+NiDecrypt-Info.plist
+c000000004CCDD0A300000000000003EA
+t1288556707
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310250279#310250279#0(0"0(0#1#0"2574409664#0"0#
+
+CCompileC build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310250281.908022
+e310250282.034001
+r1
+xCompileC
+xbuild/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m310250281#310250282#0(0"0(0#0#70"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m2574409664#1626"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecryptAppDelegate.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecryptAppDelegate.o"0#
+
+CCompileC build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/main.o "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310250281.906939
+e310250282.027234
+r1
+xCompileC
+xbuild/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/main.o
+x/Users/Bennyy/Documents/My Applications/iDecrypt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Bennyy/Documents/My Applications/iDecrypt/main.m310250281#310250282#0(0"0(0#0#55"/Users/Bennyy/Documents/My Applications/iDecrypt/main.m2574409664#1596"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources" -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/main.m" -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib"
+s310250279.548149
+e310250279.872383
+r1
+xCompileXIB
+x/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib
+o2010-10-31 20:37:59.580 ibtool[8460:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310250279#310250279#0(108"2010-10-31 20:37:59.580 ibtool[8460:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#75"/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib2574409664#401"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s310250279.547436
+e310250279.570132
+r1
+xCopyStringsFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310250279#310250279#0(0"0(0#0#80"/Users/Bennyy/Documents/My Applications/iDecrypt/English.lproj/InfoPlist.strings2574409664#390"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt" normal i386
+s310250282.034083
+e310250282.067850
+r1
+xLd
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt
+xnormal
+xi386
+lSLF07#2@102"Link /Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt310250282#310250282#0(0"0(0#0#0"2574409664#603"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug" -filelist "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/Objects-normal/i386/iDecrypt.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/MacOS/iDecrypt"0#
+
+CProcessInfoPlistFile "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Info.plist" iDecrypt-Info.plist
+s310250279.543652
+e310250279.547364
+r1
+xProcessInfoPlistFile
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Info.plist
+xiDecrypt-Info.plist
+lSLF07#2@27"Process iDecrypt-Info.plist310250279#310250279#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt-Info.plist2574409664#349"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    builtin-infoPlistUtility iDecrypt-Info.plist -genpkginfo "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch.gch iDecrypt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310250279.872484
+e310250281.906809
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch.gch
+xiDecrypt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iDecrypt_Prefix.pch310250279#310250281#0(0"0(0#0#68"/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch2574409664#1491"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-generated-files.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-own-target-headers.hmap" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-all-target-headers.hmap" -iquote "/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/iDecrypt-project-headers.hmap" "-F/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/include" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources/i386" "-I/Users/Bennyy/Documents/My Applications/iDecrypt/build/iDecrypt.build/Debug/iDecrypt.build/DerivedSources" -c "/Users/Bennyy/Documents/My Applications/iDecrypt/iDecrypt_Prefix.pch" -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecrypt_Prefix-cotbwpbtsrjhkqczebdpgqasytcv/iDecrypt_Prefix.pch.gch0#
+
+CTouch "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app"
+s310250282.067941
+e310250282.070473
+r1
+xTouch
+x/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app
+lSLF07#2@79"Touch /Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app310250282#310250282#0(0"0(0#0#0"2574409664#156"    cd "/Users/Bennyy/Documents/My Applications/iDecrypt"    /usr/bin/touch -c "/Users/Bennyy/Documents/My Applications/iDecrypt/build/Debug/iDecrypt.app"0#
+
